@@ -12,5 +12,5 @@ It is available on <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/08E4F
 
 ## Contact 
 
-matrix : @furtest:unredacted.org
+matrix : @furtest:unredacted.org\
 mail : <a href="mailto:contact@furtest.fr">contact@furtest.fr</a>
